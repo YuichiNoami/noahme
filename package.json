@@ -10,11 +10,17 @@
         "production": "mix --production"
     },
     "devDependencies": {
+<<<<<<< HEAD
         "@types/webpack-env": "^1.16.2",
         "@vue/compiler-sfc": "^3.2.6",
         "axios": "^0.21",
         "bootstrap": "^4.6.0",
         "cross-env": "^7.0.3",
+=======
+        "@vue/compiler-sfc": "^3.2.6",
+        "axios": "^0.21",
+        "bootstrap": "^4.6.0",
+>>>>>>> origin/master
         "jquery": "^3.6",
         "laravel-mix": "^6.0.0-beta.17",
         "laravel-mix-vue3": "^0.7.0",
@@ -29,5 +35,12 @@
         "vue": "^3.2.6",
         "vue-loader": "^16.5.0",
         "vue-template-compiler": "^2.6.12"
+<<<<<<< HEAD
+=======
+    },
+    "dependencies": {
+        "css-loader": "^6.2.0",
+        "style-loader": "^3.2.1"
+>>>>>>> origin/master
     }
 }
