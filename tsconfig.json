@@ -1,6 +1,5 @@
 {
   "compilerOptions": {
-<<<<<<< HEAD
     /* Visit https://aka.ms/tsconfig.json to read more about this file */
 
     /* Projects */
@@ -99,25 +98,3 @@
     "skipLibCheck": true                                 /* Skip type checking all .d.ts files. */
   }
 }
-=======
-    "outDir": "./public/",
-    "sourceMap": true,
-    "strict": true,
-    "noImplicitReturns": true,
-    "noImplicitAny": true,
-    "module": "es2015",
-    "allowSyntheticDefaultImports": true,
-    "experimentalDecorators": true,
-    "emitDecoratorMetadata": true,
-    "moduleResolution": "node",
-    "target": "es5",
-    "lib": [
-      "es2016",
-      "dom"
-    ]
-  },
-  "include": [
-    "./resources/ts/**/*"
-  ]
-}
->>>>>>> origin/master
