@@ -1,20 +1,11 @@
 const mix = require('laravel-mix');
-
-mix.ts("resources/ts/app.ts", "public/js");
-
-mix.webpackConfig({
-    resolve: {
-        extensions: [".js", ".jsx", ".vue", ".ts", ".tsx"],
-        alias: {
-            vue$: "vue/dist/vue.esm.js"
-        }
-    },
-    module: {
-        rules: [{
-            test: /\.tsx?$/,
-            loader: "ts-loader",
-            options: { appendTsSuffixTo: [/\.vue$/] },
-            exclude: /node_modules/
-        }]
-    }
-});
+mix.js('resources/js/app.js', 'public/js').vue()
+    // 以降はお好みで変更してください
+    .sass('resources/sass/app.scss', 'public/css');
+// .options({
+//     postCss: [
+//         require('postcss-import')
+//     ]
+// })
+// .webpackConfig(require('./webpack.config'))
+// .sourceMaps();
