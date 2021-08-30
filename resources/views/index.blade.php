@@ -33,8 +33,8 @@
                 </div>
                 <div data-v-09e81421="" class="main"><span class="modals"></span>
                     <div class="main-wrap sd">
-                        <div data-s-5c7593ac-3ef3-43e8-a891-0368dc49ed43="" class="sd">
-                            <div data-s-0760daae-3c95-48c3-9040-bd327070d238="" class="sd"></div>
+                        <div class="header-wrap sd">
+                            <div class="header-top-space sd"></div>
                             <div data-s-f3887f55-fe8d-425b-b61d-45162b515304="" class="sd"><i data-s-c6117b98-71c5-407b-988f-2d578d40be3e="" class="icon material-icons link sd">menu</i>
                                 <div data-s-e97b7ad2-b465-481b-b639-73bef08ceeaf="" class="sd"><a href="/" data-s-3f935b99-5b91-4082-8b9a-6498c0db4e9c="" data-r-0_1_1_0_3f935b99-5b91-4082-8b9a-6498c0db4e9c="" class="text link sd link-exact-active link-active">NoahMe</a><a href="/signup" data-s-51aabee1-b2af-4cb0-8643-7f4b4041d157="" data-r-1_1_1_0_51aabee1-b2af-4cb0-8643-7f4b4041d157="" class="text link sd">会員登録</a><a href="/signin" data-s-53fa895a-744d-47cd-9149-c4d4278b3599="" data-r-2_1_1_0_53fa895a-744d-47cd-9149-c4d4278b3599="" class="text link sd">ログイン</a></div><a href="/post" data-s-8221edfd-fce1-4372-b81a-3a9d661b4327="" class="icon material-icons link sd">mode_edit</a><a href="/search" data-s-b019b49e-3c0c-457a-8a06-83453cb29a7e="" class="icon material-icons link sd">search</a>
                             </div>

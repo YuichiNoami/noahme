@@ -731,7 +731,7 @@ a.text {
     background: #FFFFFF;
   }
 }
-.sd[data-s-5c7593ac-3ef3-43e8-a891-0368dc49ed43] {
+.sd.header-wrap {
   align-content: flex-start;
   align-items: flex-start;
   background: #00b58d;
@@ -744,7 +744,7 @@ a.text {
   max-width: 100%;
 }
 
-.sd[data-s-0760daae-3c95-48c3-9040-bd327070d238] {
+.sd.header-top-space {
   background: rgba(0, 0, 0, 0.1);
   border-radius: 0;
   height: 20px;
