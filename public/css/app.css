@@ -324,11 +324,11 @@ a.text {
 }
 
 .sd.cover-image:before {
-  background-image: url("https://images.unsplash.com/photo-1531482615713-2afd69097998?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjYzNDZ9");
+  background-image: url(/images/cover.jpeg?5b5cfaddd4b58098baf7a422f7ea5d8d);
 }
 
 .sd.desc-image:before {
-  background-image: url("https://images.unsplash.com/photo-1476124861542-44354851e622?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjYzNDZ9");
+  background-image: url(/images/desc.jpeg?daefbdd8e8257cbe532d22a64577964a);
 }
 
 .sd.main-wrap {
